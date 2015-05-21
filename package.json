@@ -1,0 +1,22 @@
+{
+  "name": "build-tester",
+  "version": "1.0.0",
+  "description": "A tester to make sure builds are working correctly before hosting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevilgeorge/build-tester.git"
+  },
+  "author": "Nevil George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevilgeorge/build-tester/issues"
+  },
+  "homepage": "https://github.com/nevilgeorge/build-tester#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
